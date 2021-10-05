@@ -1,6 +1,6 @@
 Welcome to my GitHub account, my name is Wassim (@HCWassim) and I'm a 2nd year student at the University of Nantes enrolled in a Physics, Mathematics and Computer Science Bachelor.
 
-I'm currently interested in research (espacially non Euclidean Geometry and Fractals) and this is why I'm programming. However I'm currently working on a Stock Manager which will soon be available for selling if you are interested!
+I currently am interested in research (espacially non Euclidean Geometry and Fractals) and this is why I'm a programmer. However I'm currently working on a Stock Manager which will soon be available for selling if you are interested!
 
 My working language are C#, Python, Js, C++, PHP and SQL
 
