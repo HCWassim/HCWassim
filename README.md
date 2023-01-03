@@ -1,4 +1,4 @@
-Welcome to my GitHub account, my name is Wassim (@HCWassim) and I'm a 2nd year student at the University of Nantes enrolled in a Physics, Mathematics and Computer Science Bachelor.
+Welcome to my GitHub account, my name is Wassim (@HCWassim) and I'm a 3rd year student at the University of Nantes enrolled in a Physics, Mathematics and Computer Science Bachelor.
 
 I currently am interested in research (espacially non Euclidean Geometry and Fractals) and this is why I'm a programmer. However I'm currently working on a Stock Manager which will soon be available for selling if you are interested!
 
