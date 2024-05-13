@@ -4,7 +4,7 @@ My academic journey began with a Bachelor's degree in Physics, and now I'm delvi
 
 For further inquiries or collaborations, feel free to reach out to me via email or through my social networks:
 
-Google PlayStore: [Google PlayStore](https://play.google.com/store/apps/dev?id=4613795938189914195)
+[Linkedin](https://www.linkedin.com/in/wassim-hadj-cherif-4260a9269/)
 
 <!---
 HCWassim/HCWassim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
