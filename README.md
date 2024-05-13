@@ -1,16 +1,10 @@
-Welcome to my GitHub account, my name is Wassim (@HCWassim) and I'm a 3rd year student at the University of Nantes enrolled in a Physics, Mathematics and Computer Science Bachelor.
+Welcome to my GitHub account! I'm Wassim (@HCWassim), a third-year student at Polytech Nantes, currently pursuing studies to become a computer engineer with a focus on artificial intelligence.
 
-I currently am interested in research (espacially non Euclidean Geometry and Fractals) and this is why I'm a programmer. However I'm currently working on a Stock Manager which will soon be available for selling if you are interested!
+My academic journey began with a Bachelor's degree in Physics, and now I'm delving into the intricacies of computer science. Proficient in C, Java, C#, and Python, I am actively engaged in various projects. Notably, one of my recent achievements is the development of a 3D engine entirely from scratch using C. You can explore this project on my GitHub repository and watch an explanatory video on YouTube at this link: [YouTube Video](https://www.youtube.com/watch?v=gB2y2YV7Xgo&ab_channel=wassim).
 
-My working language are C#, Python, Js, C++, PHP and SQL
+For further inquiries or collaborations, feel free to reach out to me via email or through my social networks:
 
-You can reach me by email or with my social network:
-
-Email: hadjcherifwassim@gmail.com
-
-Instagram: https://www.instagram.com/wassim.js/
-
-Google PlayStore: https://play.google.com/store/apps/dev?id=4613795938189914195
+Google PlayStore: [Google PlayStore](https://play.google.com/store/apps/dev?id=4613795938189914195)
 
 <!---
 HCWassim/HCWassim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
